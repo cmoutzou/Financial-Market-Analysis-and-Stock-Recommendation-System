@@ -1,7 +1,3 @@
-Here's an updated version of your repository description that includes the information about the charts and their functionalities:
-
----
-
 # **Financial Market Analysis and Stock Recommendation System**
 
 ## **Description**
